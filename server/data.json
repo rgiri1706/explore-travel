@@ -1,0 +1,21 @@
+[
+  {
+    "passenger_name": "test",
+    "destination": {
+      "value": "bangalore",
+      "label": "Bangalore"
+    },
+    "interest": {
+      "value": "biking",
+      "label": "Biking"
+    },
+    "passengerCount": {
+      "value": 1,
+      "label": "1"
+    },
+    "budget": {
+      "value": 9000,
+      "label": "$9000k"
+    }
+  }
+]
